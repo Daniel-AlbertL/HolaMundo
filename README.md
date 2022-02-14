@@ -1,4 +1,6 @@
 # HolaMundo
-Este es mi primer repositor 
+ 
+ "Mi primer programa" 
+
 #Autor: DAnieL96
 #Fecha: 14/02/22
